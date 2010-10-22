@@ -1,6 +1,6 @@
 # BXActorController
 
-_Location_: `bloxley.controller.game.BXObject`
+_Location_: `bloxley.controller.game.BXActorController`
 
 _Superclass_: `bloxley.base.BXObject`
 
